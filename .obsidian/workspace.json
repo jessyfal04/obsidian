@@ -4,36 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "445b715901b817d8",
+        "id": "f432ff1d0a0ddc9f",
         "type": "tabs",
         "children": [
           {
-            "id": "712ae748c6080f30",
+            "id": "3719f43749507920",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "dc4313048d7627e0",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "e0fb3ee20958e53a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".md",
-                "staged": false
+                "file": "Projects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,11 +125,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Projects.md"
+              }
+            }
+          },
+          {
+            "id": "2e727c6c0b71fd4d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,9 +156,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "712ae748c6080f30",
+  "active": "3719f43749507920",
   "lastOpenFiles": [
+    "Res/Pasted image 20240809005135.png",
     "Projects.md",
+    "Res",
+    "Pasted image 20240809005153.png",
     "Notes/TryHackMe/Rooms/Untitled.md",
     "index.md",
     "Notes",
