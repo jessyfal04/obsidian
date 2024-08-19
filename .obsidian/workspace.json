@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f432ff1d0a0ddc9f",
+        "id": "a706b6be27579488",
         "type": "tabs",
         "children": [
           {
-            "id": "3719f43749507920",
+            "id": "8b41e46277370384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects.md"
+                "file": "index.md"
               }
             }
           },
@@ -135,6 +135,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8fcc8e2ad79a989",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
@@ -156,21 +164,23 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "3719f43749507920",
+  "active": "8b41e46277370384",
   "lastOpenFiles": [
-    "Res/Pasted image 20240809005135.png",
+    "CyberNotes/Master Paris",
+    "CyberNotes/Untitled.md",
+    "index.md",
     "Projects.md",
+    "Res/Pasted image 20240809005135.png",
     "Res",
     "Pasted image 20240809005153.png",
-    "Notes/TryHackMe/Rooms/Untitled.md",
-    "index.md",
-    "Notes",
+    "CyberNotes/TryHackMe/Rooms/Untitled.md",
+    "CyberNotes",
     "Projects",
-    "Notes/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
-    "Notes/TryHackMe/Paths/Jr Penetration Tester.md",
-    "Notes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
-    "Notes/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
-    "Notes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
+    "CyberNotes/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
+    "CyberNotes/TryHackMe/Paths/Jr Penetration Tester.md",
+    "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
+    "CyberNotes/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
+    "CyberNotes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
     "metasploitintro.md",
     "Untitled.canvas",
     "THM/Untitled.md",
@@ -180,9 +190,9 @@
     "Untitled 1",
     "vulnerabilities101.md",
     "LOL.md",
-    "Notes/TryHackMe/Paths",
-    "Notes/TryHackMe/Rooms",
-    "Notes/TryHackMe",
+    "CyberNotes/TryHackMe/Paths",
+    "CyberNotes/TryHackMe/Rooms",
+    "CyberNotes/TryHackMe",
     "2024-07-19.md"
   ]
 }

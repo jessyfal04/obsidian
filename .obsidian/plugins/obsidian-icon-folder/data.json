@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSchool",
       "LiAirplay",
       "LiArrowBigRightDash",
       "LiComputer"
@@ -31,7 +32,8 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Notes/TryHackMe": "LiComputer",
-  "Notes/TryHackMe/Paths": "LiArrowBigRightDash",
-  "Notes/TryHackMe/Rooms": "LiAirplay"
+  "CyberNotes/TryHackMe": "LiComputer",
+  "CyberNotes/TryHackMe/Paths": "LiArrowBigRightDash",
+  "CyberNotes/TryHackMe/Rooms": "LiAirplay",
+  "CyberNotes/Master Paris": "LiSchool"
 }
