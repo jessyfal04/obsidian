@@ -1,16 +1,18 @@
 ---
-title: Yepssy
-draft: false
+title: Home
+draft: true
 tags:
 ---
 > [!warning] Before you go 
 >  The site is under construction...
 
-## Projects
+## Me
+Hello I'm Jessy :)
+I'm a Future Master's Degree student at University Paris-Cité.
 
-### Url Redirection
-### PhoneLighty
-### AVotey
+My **CV** : 
+My **GitHub** : https://github.com/jessyfal04
+
+## [[Projects|Projects List]]
 
 ## Courses / Certifications
-...

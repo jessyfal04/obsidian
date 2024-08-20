@@ -1,6 +1,7 @@
 ---
 tags:
   - Room
+  - CyberNotes
 ---
 *vulnerability research*
 ## Type of Vulnerabilities :

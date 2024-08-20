@@ -1,4 +1,5 @@
 ---
 tags:
   - Room
+  - CyberNotes
 ---
