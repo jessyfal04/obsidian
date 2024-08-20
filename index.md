@@ -1,6 +1,6 @@
 ---
 title: Home
-draft: true
+draft: false
 tags:
 ---
 > [!warning] Before you go 
