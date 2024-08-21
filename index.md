@@ -3,16 +3,23 @@ title: Home
 draft: false
 tags:
 ---
-> [!warning] Before you go 
+> [!warning] Warning
 >  The site is under construction...
 
-## Me
+## About Me
 Hello I'm Jessy :)
-I'm a Future Master's Degree student at University Paris-Cité.
 
-My **CV** : 
+I'm a future Master's Degree student in Cyber-security and e-health at Paris-Cité University.
+
+I graduated with a Bachelor's Degree in Computer-Science from Paris-Saclay University 
+
+
+My **CV** : ...
+
+My **LinkedIn** : https://www.linkedin.com/in/jessyfal04
+
 My **GitHub** : https://github.com/jessyfal04
 
-## [[Projects|Projects List]]
+## [[Projects List]] ![[Projects List]]
 
-## Courses / Certifications
+## [[CyberNotes/index|CyberNotes]]

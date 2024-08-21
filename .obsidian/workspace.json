@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b71c9ae6872feb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4619f87e9b16b154",
+            "id": "f34e67d4c7848ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,19 +164,21 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "4619f87e9b16b154",
+  "active": "f34e67d4c7848ffd",
   "lastOpenFiles": [
-    "Projects.md",
+    "CyberNotes/index.md",
     "index.md",
+    "Projects List.md",
+    "Res/cat 1.png",
+    "Res/cat.png",
+    "CyberNotes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
+    "CV.md",
     "WebSite.md",
     "CyberNotes/TryHackMe/Rooms/Meterpreter.md",
     "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
     "CyberNotes/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
-    "CyberNotes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
     "CyberNotes/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
-    "Res/cat.png",
     "CyberNotes/Master Paris",
-    "CyberNotes/Untitled.md",
     "Res",
     "Pasted image 20240809005153.png",
     "CyberNotes",
