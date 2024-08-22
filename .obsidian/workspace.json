@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "77519af0e7304bb4",
+        "id": "19dd2f0db8a5569d",
         "type": "tabs",
         "children": [
           {
-            "id": "f34e67d4c7848ffd",
+            "id": "66afefad1a087a5f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "65f40b43a9d841a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Projects List.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Path",
+                "query": "tag:#CyberNotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Projects List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Projects List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Projects List.md"
               }
             }
           },
@@ -164,17 +173,20 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "f34e67d4c7848ffd",
+  "active": "65f40b43a9d841a3",
   "lastOpenFiles": [
-    "CyberNotes/index.md",
     "index.md",
     "Projects List.md",
+    "CyberNotes/index.md",
+    "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
+    "CyberNotes/TryHackMe/Rooms/Meterpreter.md",
+    "CyberNotes/Others/Ed25519.md",
+    "CyberNotes/Others",
     "Res/cat 1.png",
     "Res/cat.png",
     "CyberNotes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
     "CV.md",
     "WebSite.md",
-    "CyberNotes/TryHackMe/Rooms/Meterpreter.md",
     "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
     "CyberNotes/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
     "CyberNotes/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
