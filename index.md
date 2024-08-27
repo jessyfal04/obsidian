@@ -13,15 +13,15 @@ I'm a future Master's Degree student in Cyber-security and e-health at Paris-Cit
 
 I graduated with a Bachelor's Degree in Computer-Science from Paris-Saclay University 
 
-
-My **CV** : ...
+### My Docs
+My **CV** : [link](Res/cv.pdf)
 
 My **LinkedIn** : https://www.linkedin.com/in/jessyfal04
 
 My **GitHub** : https://github.com/jessyfal04
 
-## [[Projects List]]
+## Projects
+You can access to my  [[Projects List]].
 
-## #CyberNotes 
-
-The CyberNotes are notes I take about cybersecurity.
+## CyberNotes 
+The #CyberNotes are notes I take about cybersecurity.
