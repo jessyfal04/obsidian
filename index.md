@@ -21,7 +21,7 @@ My **LinkedIn** : https://www.linkedin.com/in/jessyfal04
 My **GitHub** : https://github.com/jessyfal04
 
 ## Projects
-You can access to my  [[Projects List]].
+You can access to my [[Projects]].
 
 ## CyberNotes 
 The #CyberNotes are notes I take about cybersecurity.
