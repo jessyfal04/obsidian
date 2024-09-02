@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiSchool",
-      "LiAirplay",
-      "LiArrowBigRightDash",
-      "LiComputer"
+      "LiExperiment",
+      "LiNewspaper",
+      "LiBookText",
+      "LiImage",
+      "LiHome"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +36,11 @@
   "CyberNotes/TryHackMe": "LiComputer",
   "CyberNotes/TryHackMe/Paths": "LiArrowBigRightDash",
   "CyberNotes/TryHackMe/Rooms": "LiAirplay",
-  "CyberNotes/Master Paris": "LiSchool"
+  "CyberNotes/Master Paris": "LiSchool",
+  "index.md": "LiHome",
+  "Blog/index.md": "LiHome",
+  "Res": "LiImage",
+  "CyberNotes": "LiBookText",
+  "Blog": "LiNewspaper",
+  "Projects.md": "LiExperiment"
 }

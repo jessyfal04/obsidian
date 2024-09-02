@@ -24,4 +24,7 @@ My **GitHub** : https://github.com/jessyfal04
 You can access to my [[Projects]].
 
 ## CyberNotes 
-The #CyberNotes are notes I take about cybersecurity.
+The [[CyberNotes/index|CyberNotes]] are notes I take about cybersecurity.
+
+## Blog
+In my [[]] I'm talking about my thoughts.
