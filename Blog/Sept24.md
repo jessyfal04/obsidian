@@ -24,7 +24,6 @@ I wanna work at :
 	- Corporate IT Security [Link](https://www.nintendo.co.jp/jobs/introduction/engineer/soft-it.html)
 		- Corporate IT Security Engineer
 	-   Server Security Engineer
-	- 
 
 But I think I should prioritize my research interest over my future work interest. 
 

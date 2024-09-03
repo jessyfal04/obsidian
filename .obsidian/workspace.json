@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ccfae715d0cecd5e",
+        "id": "75f7acb0279e91d2",
         "type": "tabs",
         "children": [
           {
-            "id": "2b3e2a61b77c6511",
+            "id": "9878f206dce06ce0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects.md"
+              }
             }
           },
           {
@@ -155,17 +164,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2b3e2a61b77c6511",
+  "active": "9878f206dce06ce0",
   "lastOpenFiles": [
-    "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
-    "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
-    "Blog/Sept24.md",
-    "Projects.md",
-    "Blog/index.md",
     "index.md",
+    "Blog/Sept24.md",
+    "CyberNotes/index.md",
+    "Projects.md",
     "Res/cv.pdf",
     "Res/cat.png",
-    "CyberNotes/index.md",
+    "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
+    "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
+    "Blog/index.md",
     "Blog",
     "ff.md",
     "CyberNotes/Others/Ed25519.md",

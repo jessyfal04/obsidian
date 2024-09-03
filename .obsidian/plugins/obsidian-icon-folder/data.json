@@ -42,5 +42,6 @@
   "Res": "LiImage",
   "CyberNotes": "LiBookText",
   "Blog": "LiNewspaper",
-  "Projects.md": "LiExperiment"
+  "Projects.md": "LiExperiment",
+  "CyberNotes/index.md": "LiHome"
 }
