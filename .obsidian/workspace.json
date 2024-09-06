@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects.md"
+                "file": "index.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "9878f206dce06ce0",
   "lastOpenFiles": [
-    "index.md",
-    "Blog/Sept24.md",
-    "CyberNotes/index.md",
     "Projects.md",
+    "Blog/Sept24.md",
+    "Blog/index.md",
+    "index.md",
+    "CyberNotes/index.md",
     "Res/cv.pdf",
     "Res/cat.png",
     "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
     "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
-    "Blog/index.md",
     "Blog",
     "ff.md",
     "CyberNotes/Others/Ed25519.md",

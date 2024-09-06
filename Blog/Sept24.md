@@ -9,16 +9,20 @@ draft: true
 ### Research
 
 I don't know what to do but I wanna touch to :
-- Network
-- Security
-- Communications / API 
-- Games / Progressive Web App
+- **Security**
+- Web Applications : API, Progressive Web App, Web-sockets, Service Workers
+- Server Security : Linux, Database
+Also :
+- Secured Games Networking and Communications
+- AI usages
+- Cloud environments
+
 ### Work
 
 I wanna work at :
 - Nintendo European Research and Development (NERD)
 - Nintendo in Japan
-	- Security measures of Network Service Development [Link](https://www.nintendo.co.jp/jobs/introduction/engineer/soft-network.html)
+	- Security measures of **Network Service Development** [Link](https://www.nintendo.co.jp/jobs/introduction/engineer/soft-network.html)
 		- Game Network Engineer
 		- <mark style="background: #ABF7F7A6;">Game's Weaknesses</mark> [Link](https://www.nintendo.co.jp/jobs/keyword/77.html)
 	- Corporate IT Security [Link](https://www.nintendo.co.jp/jobs/introduction/engineer/soft-it.html)
