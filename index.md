@@ -4,14 +4,14 @@ draft: false
 tags:
 ---
 ## About Me
-Hello I'm Jessy :)
+I'm a 20-year-old Master's student from France with a strong passion for securing internet communications, networks, and cloud systems.
 
-I'm a future Master's Degree student in Cyber-security and e-health at Paris-Cité University.
+I'm determined to specialize in cybersecurity and broaden my expertise by pursuing a PhD in Japan or South Korea.
 
-I graduated with a Bachelor's Degree in Computer-Science from Paris-Saclay University.
+I'm particularly interested in working for R&D-focused companies like Nintendo, where cloud technology plays a major role.
 
 ### My Links
-My **CV** : [link](Res/cv.pdf)
+My **CV** : [link](Res/cv_fallavier.pdf)
 
 My **LinkedIn** : https://www.linkedin.com/in/jessyfal04
 

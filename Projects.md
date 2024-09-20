@@ -13,6 +13,7 @@
 > [!todo] Todo
 > - **API, Secured Websockets**
 > - **Cloud Saving with Database**
+> - Google Cloud Database
 > - Games :
 > 	- Tictactoe avec un user predict et une étape quand il reçoit l'auth du serveur / c au tour de l'autre / pour voir le serveur auth
 > 	- Ordre / Perte de paquets Jeu de rectangle qui se déplacent, possibilité de simuler la perte de paquet / la lenteur d'arrivée -- le client prédit les autres et ne fait pas de lags avant après
