@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01455faddf5961b0",
+        "id": "18262437281d227c",
         "type": "tabs",
         "children": [
           {
-            "id": "7f26cd80b597466e",
+            "id": "93c695c27059d9a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CyberNotes/Others/Words.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "CyberNotes/Others/Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "CyberNotes/Others/Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "CyberNotes/Others/Words.md"
               }
             }
           },
@@ -164,8 +164,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "7f26cd80b597466e",
+  "active": "93c695c27059d9a5",
   "lastOpenFiles": [
+    "CyberNotes/Others/Liked CCS.md",
+    "CyberNotes/Others/Words.md",
+    "CyberNotes/Others/Nintendo Jobs.md",
+    "Untitled",
     "Res/cv_fallavier.pdf",
     "index.md",
     "Projects.md",
@@ -201,9 +205,6 @@
     "lol.md",
     "Untitled 1",
     "vulnerabilities101.md",
-    "LOL.md",
-    "CyberNotes/TryHackMe/Paths",
-    "CyberNotes/TryHackMe/Rooms",
-    "2024-07-19.md"
+    "LOL.md"
   ]
 }
