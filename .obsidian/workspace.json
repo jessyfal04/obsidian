@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberNotes/Others/Words.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "427e40d500f9ab3b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberNotes/Others/Words.md",
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberNotes/Others/Words.md",
+                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberNotes/Others/Words.md"
+                "file": "Projects.md"
               }
             }
           },
@@ -164,20 +165,20 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "93c695c27059d9a5",
+  "active": "2e727c6c0b71fd4d",
   "lastOpenFiles": [
-    "CyberNotes/Others/Liked CCS.md",
+    "index.md",
+    "Projects.md",
+    "CyberNotes/index.md",
     "CyberNotes/Others/Words.md",
+    "CyberNotes/Others/Liked CCS.md",
     "CyberNotes/Others/Nintendo Jobs.md",
     "Untitled",
     "Res/cv_fallavier.pdf",
-    "index.md",
-    "Projects.md",
     "Res/cv.pdf",
     "Res/cat.png",
     "Blog/Sept24.md",
     "Blog/index.md",
-    "CyberNotes/index.md",
     "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
     "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
     "Blog",
