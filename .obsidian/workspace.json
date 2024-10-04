@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18262437281d227c",
+        "id": "73300a630de49da3",
         "type": "tabs",
         "children": [
           {
-            "id": "93c695c27059d9a5",
+            "id": "a4a1f235eadc2bb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "427e40d500f9ab3b",
@@ -165,20 +164,22 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2e727c6c0b71fd4d",
+  "active": "a4a1f235eadc2bb0",
   "lastOpenFiles": [
     "index.md",
-    "Projects.md",
-    "CyberNotes/index.md",
+    "Blog/Master's re-orientation.md",
     "CyberNotes/Others/Words.md",
     "CyberNotes/Others/Liked CCS.md",
-    "CyberNotes/Others/Nintendo Jobs.md",
+    "Blog/index.md",
+    "Blog/Nintendo Jobs.md",
+    "Blog/Sept24.md",
+    "CyberNotes/Principles of Secure Coding.md",
+    "CyberNotes/index.md",
+    "Projects.md",
     "Untitled",
     "Res/cv_fallavier.pdf",
     "Res/cv.pdf",
     "Res/cat.png",
-    "Blog/Sept24.md",
-    "Blog/index.md",
     "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
     "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
     "Blog",
@@ -204,8 +205,6 @@
     "THM/DDd.md",
     "Untitled/vrgtf.md",
     "lol.md",
-    "Untitled 1",
-    "vulnerabilities101.md",
-    "LOL.md"
+    "Untitled 1"
   ]
 }

@@ -1,3 +1,8 @@
+---
+tags:
+  - Blog
+draft: true
+---
 ## Security measures
 
 ### What are the security measures?
