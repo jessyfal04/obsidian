@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Process
 ## Beginning
 I decided to : 

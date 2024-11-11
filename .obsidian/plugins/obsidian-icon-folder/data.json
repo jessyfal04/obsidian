@@ -36,12 +36,12 @@
   "CyberNotes/TryHackMe": "LiComputer",
   "CyberNotes/TryHackMe/Paths": "LiArrowBigRightDash",
   "CyberNotes/TryHackMe/Rooms": "LiAirplay",
-  "CyberNotes/Master Paris": "LiSchool",
   "index.md": "LiHome",
   "Blog/index.md": "LiHome",
   "Res": "LiImage",
   "CyberNotes": "LiBookText",
   "Blog": "LiNewspaper",
   "Projects.md": "LiExperiment",
-  "CyberNotes/index.md": "LiHome"
+  "CyberNotes/index.md": "LiHome",
+  "Master Paris": "LiSchool"
 }
