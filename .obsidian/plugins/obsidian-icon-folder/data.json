@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
       "LiExperiment",
       "LiNewspaper",
       "LiBookText",
-      "LiImage",
-      "LiHome"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,5 @@
   "Blog": "LiNewspaper",
   "Projects.md": "LiExperiment",
   "CyberNotes/index.md": "LiHome",
-  "Master Paris": "LiSchool"
+  "Certs.md": "LiAlbum"
 }

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "154c7b01cab581e3",
+        "id": "0d98dad757d8c003",
         "type": "tabs",
         "children": [
           {
-            "id": "ef935fdc0fa4e340",
+            "id": "c1390e4ac7c1d62c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Certs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Certs"
             }
           }
         ]
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,53 +184,53 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "ef935fdc0fa4e340",
+  "active": "c1390e4ac7c1d62c",
   "lastOpenFiles": [
     "Projects.md",
-    "Master Paris/CRYP/Cours 2.md",
-    "CyberNotes/DevSecOps.md",
-    "CyberNotes/index.md",
-    "Blog/index.md",
+    "index.md",
+    "Certs.md",
+    "Blog/Cloud Provider In KR and JP.md",
     "Blog/Untitled.md",
     "Blog/Thinkings About my Master's Degree.md",
     "Blog/Sept24.md",
     "Blog/Nintendo Jobs.md",
-    "index.md",
+    "Blog/index.md",
+    "Res/Pasted image 20241129172645.png",
+    "CyberNotes/TryHackMe/Rooms/DevSecOps.md",
+    "Certs/Language/index.md",
+    "Certs/IT.md",
+    "Certs/Language",
+    "Certs",
+    "Master Paris/CRYP/Cours 2.md",
+    "CyberNotes/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
+    "CyberNotes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
+    "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
+    "CyberNotes/TryHackMe/Rooms/Intro to Kubernetes.md",
+    "CyberNotes/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
     "CyberNotes/Others/Words.md",
     "CyberNotes/Others/Principles of Secure Coding.md",
     "CyberNotes/Others/Liked CCS.md",
     "CyberNotes/Others/Ed25519.md",
+    "Res/Pasted image 20241112221608.png",
+    "Res/Pasted image 20241112223442.png",
+    "Res/Pasted image 20241112223402.png",
+    "Res/Pasted image 20241112222816.png",
+    "CyberNotes/index.md",
     "Res/Pasted image 20241101153517.png",
     "Res/Pasted image 20241101153045.png",
     "Res/Pasted image 20241101152159.png",
     "Res/Pasted image 20241101151750.png",
     "Res/Pasted image 20241101145852.png",
-    "Res/Pasted image 20241101144843.png",
-    "Res/Pasted image 20241010114640.png",
     "Res/cv_fallavier.pdf",
-    "Res/cat.png",
     "Master Paris/CRYP",
-    "Untitled",
-    "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
-    "CyberNotes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
     "Res/cv.pdf",
     "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
     "Blog",
     "ff.md",
-    "CyberNotes/TryHackMe/Rooms/Meterpreter.md",
     "CyberNotes/Others",
-    "Res/cat 1.png",
-    "CV.md",
-    "WebSite.md",
-    "CyberNotes/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
-    "CyberNotes/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
     "Master Paris",
     "Res",
-    "Pasted image 20240809005153.png",
     "CyberNotes",
-    "Projects",
-    "CyberNotes/TryHackMe/Paths/Jr Penetration Tester.md",
-    "metasploitintro.md",
     "Untitled.canvas"
   ]
 }

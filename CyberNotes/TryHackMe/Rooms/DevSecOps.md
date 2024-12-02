@@ -29,6 +29,9 @@ environment variables to store cred
 Dependency Disclosure / Dependency Confusion
 **CI/CD integration** or/and **IDE**
 
+## Container
+Interprocess Communication
+
 ## Images
 ### DevOps
 ![[Pasted image 20241101151750.png]]
@@ -37,3 +40,44 @@ Dependency Disclosure / Dependency Confusion
 ![[Pasted image 20241101144843.png]]
 ### Application Security Testing
 ![[Pasted image 20241101153045.png]]
+![[Pasted image 20241129172645.png]]
+**Spidering/Crawling** 
+Jenkins ~~ ZAP ~~ empecher logout ~~ api
+
+## IaC
+**Scalable**
+**Versionable**
+**Repeatable**
+
+Declarative vs. Imperative 
+Agent-based vs. Agentless
+Immutable vs. Mutable
+Provisioning vs. Configuration Management *(Infrastructure provisioning (the set-up of the infrastructure), infrastructure management (changes made to infrastructure), software installation (initial installation and configuration of software/applications), and software management (updates made to software or config changes).)*
+
+**Continual (Best Practice) Phases**
+- Version Control
+- Collaboration
+- Monitoring/Maintenance
+- Rollback
+- Review + Change
+
+**Repeatable (Infra Creation + Config) Phases**
+- Design
+- Define
+- Test
+- Provision
+- Configure
+
+
+Virtualisation in IaC : Scalability, Resource Isolation, Testing / Snapshots / Rollbacks, Templates, Multi-tenancy, and Portability
+
+Hypervisor (VM) -  Containerisation (Containers)
+
+On-premises IaC and cloud-based IaC :
+- Location
+- Tech
+- Ressources
+- Scalability
+- Cost
+
+CSP : Cloud Service Provider
