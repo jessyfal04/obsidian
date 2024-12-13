@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "index"
             }
           }
         ]
@@ -186,9 +186,11 @@
   },
   "active": "b9ba791df3a76e8a",
   "lastOpenFiles": [
-    "index.md",
-    "Projects.md",
+    "Res/publickey_jessyfal04.asc",
     "Certs.md",
+    "index.md",
+    "Res/publickey.asc",
+    "Projects.md",
     "Res/attestationANSII_Fallavier.pdf",
     "Res/attestationCNIL_Fallavier.pdf",
     "[.md",
@@ -230,7 +232,6 @@
     "Res/cv.pdf",
     "CyberNotes/TryHackMe/Rooms/Meterpreter2.md",
     "Blog",
-    "CyberNotes/Others",
     "Untitled.canvas"
   ]
 }
