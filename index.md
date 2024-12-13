@@ -15,9 +15,11 @@ My **LinkedIn** : https://www.linkedin.com/in/jessyfal04
 
 My **GitHub** : https://github.com/jessyfal04
 
-You can access to my [GPG Public Key](publickey_jessyfal04.asc).
 ## Projects
 You can access to my [[Projects]].
 
 ## Certs
 You can access to my [[Certs]].
+
+## GPG Key
+You can access to my [GPG Public Key](publickey_jessyfal04.asc).
