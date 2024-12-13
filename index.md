@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 ## About Me
-I'm a 20-year-old Master's student from France with a strong passion for programming and information security.
+I'm a Master's student from France with a strong passion for programming and information security.
 
 I'm determined to specialize in cybersecurity and broaden my expertise by pursuing a PhD in South Korea.
 
@@ -17,3 +17,6 @@ My **GitHub** : https://github.com/jessyfal04
 
 ## Projects
 You can access to my [[Projects]].
+
+## Certs
+You can access to my [[Certs]].
