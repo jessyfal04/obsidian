@@ -5,8 +5,6 @@ A Secure UDP Hole-Punching Chat with Asymmetric Key Encryption
 ### PhoneFish
 [WebSite](https://jessyfal04.dev/phonefish) [GitHub](https://github.com/jessyfal04/phonefish)
 Using phone's shaking to interact through secure web-socket to a Godot Web game
-> [!info] Info
-> In migration...
 
 ### WebAuthnNotes
 [WebSite](https://jessyfal04.dev/webauthnnotes) [GitHub](https://github.com/jessyfal04/webauthnnotes)
