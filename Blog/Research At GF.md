@@ -39,12 +39,12 @@ https://www.gamefreak.co.jp/recruit/new/programmer/
 ### Engine Programmer  
 - Develop an environment for efficient game development by enabling the various functions of the in-house engine to be handled graphically  
 - Develop necessary core systems such as scene systems and streaming functions  
-### Library Programmer  
-- Develop functions to make hardware functions easier, safer, and easier to use  
-- Develop low-layer libraries such as memory management  
-### Build Engineer  
-- Identify development processes that should be automated, and automate builds and tests  
-- Identify test cases according to the system, and develop a system to execute them and improve test efficiency  
+### <mark style="background: #ADCCFFA6;">Library Programmer</mark>  
+- <mark style="background: #ADCCFFA6;">Develop functions to make hardware functions easier, safer, and easier to use</mark>  
+- <mark style="background: #ADCCFFA6;">Develop low-layer libraries such as memory management </mark> 
+### <mark style="background: #ADCCFFA6;">Build Engineer</mark>  
+- <mark style="background: #ADCCFFA6;">Identify development processes that should be automated, and automate builds and tests  </mark>
+- <mark style="background: #ADCCFFA6;">Identify test cases according to the system, and develop a system to execute them and improve test efficiency</mark>  
 ### Technical Artist  
 - Develop plugins that make various DCC tools easier to use  
 - Develop a system that allows the same rig to be used for models with the same shape  
@@ -126,7 +126,6 @@ Design and implementation of libraries, game frameworks/engines, and research wo
 https://hrmos.co/pages/gamefreak/jobs/1-10
 
 Communication programming work for consumer game development
-
 
 - Development experience in C++  
 - Experience with client-side implementation of P2P or Internet communications

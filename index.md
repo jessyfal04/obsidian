@@ -1,7 +1,5 @@
 ---
 title: Me
-draft: false
-tags:
 ---
 ## About Me
 I'm a Master's student from France with a strong passion for programming and information security.

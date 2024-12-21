@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ## Game Automation Technique Classifications
 <https://www.centrepompidou.fr/en/program/calendar/event/0xx398E>
 - Image Base Automation Technique tools
