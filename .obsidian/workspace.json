@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "896e1876a80ef1af",
+        "id": "67630369df240907",
         "type": "tabs",
         "children": [
           {
-            "id": "9b34f7bb57933088",
+            "id": "1b76a88816c8f43b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "f3a6ede1cda8be87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Research Interest.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research Interest"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -93,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "427e40d500f9ab3b",
@@ -199,52 +179,51 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9b34f7bb57933088",
+  "active": "ae9484ca12b1cebf",
   "lastOpenFiles": [
-    "Blog/Cloud Provider In KR and JP.md",
-    "Blog/Automated Game Testing.md",
-    "Blog/Untitled.md",
-    "Blog/Thinkings About my Master's Degree.md",
-    "Blog/Sept24.md",
-    "Blog/Research Interest.md",
-    "Blog/Research At GF.md",
-    "Blog/Nintendo Jobs.md",
-    "Projects.md",
+    "blog/index.md",
+    "trash/cv_fallavier.pdf",
+    "res/cat.png",
+    "res/attestationCNIL_Fallavier.pdf",
+    "res/attestationANSII_Fallavier.pdf",
+    "trash/Pasted image 20241010114640.png",
+    "trash/Pasted image 20241101144843.png",
+    "trash/Pasted image 20241112223402.png",
+    "trash/Pasted image 20241112223442.png",
+    "trash/Pasted image 20241129172645.png",
+    "trash/Pasted image 20241214153647.jpg",
+    "trash/Pasted image 20241101151750.png",
+    "trash/Pasted image 20241101145852.png",
     "index.md",
-    "Certs.md",
-    "CyberNotes/TryHackMe/Paths/Jr Penetration Tester.md",
+    "certs.md",
+    "projects.md",
+    "trash/Automated Game Testing.md",
+    "trash/Research Interest.md",
+    "trash",
+    "trash/Research At GF.md",
     "Untitled.md",
-    "Blog/index.md",
-    "Res/cat.png",
-    "Res/Pasted image 20241214153647.jpg",
-    "Res/publickey_jessyfal04.asc",
+    "trash/Nintendo Jobs.md",
+    "trash/Cloud Provider In KR and JP.md",
+    "trash/Thinkings About my Master's Degree.md",
+    "trash/Untitled.md",
+    "trash/Sept24.md",
+    "trash/TryHackMe/Paths/Jr Penetration Tester.md",
+    "res/publickey_jessyfal04.asc",
     "Res/publickey.asc",
-    "Res/attestationANSII_Fallavier.pdf",
-    "Res/attestationCNIL_Fallavier.pdf",
     "[.md",
-    "Untitled",
-    "Res/Pasted image 20241129172645.png",
-    "CyberNotes/TryHackMe/Rooms/DevSecOps.md",
+    "trash/TryHackMe/Rooms/DevSecOps.md",
     "Certs/Language/index.md",
     "Certs/IT.md",
     "Certs/Language",
     "Certs",
     "Master Paris/CRYP/Cours 2.md",
-    "CyberNotes/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
-    "CyberNotes/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
-    "CyberNotes/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
-    "CyberNotes/TryHackMe/Rooms/Intro to Kubernetes.md",
-    "CyberNotes/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
-    "CyberNotes/Others/Words.md",
-    "CyberNotes/Others/Principles of Secure Coding.md",
-    "Res/Pasted image 20241112221608.png",
-    "Res/Pasted image 20241112223442.png",
-    "Res/Pasted image 20241112223402.png",
-    "Res/Pasted image 20241112222816.png",
-    "Res/Pasted image 20241101153517.png",
-    "Res/Pasted image 20241101153045.png",
-    "Res/Pasted image 20241101152159.png",
-    "Res/cv_fallavier.pdf",
+    "trash/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
+    "trash/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
+    "trash/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
+    "trash/TryHackMe/Rooms/Intro to Kubernetes.md",
+    "trash/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
+    "trash/Others/Words.md",
+    "trash/Pasted image 20241112221608.png",
     "Master Paris/CRYP",
     "Res/cv.pdf",
     "Untitled.canvas"
