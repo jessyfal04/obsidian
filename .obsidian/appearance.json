@@ -4,5 +4,6 @@
   "accentColor": "#4838c2",
   "theme": "moonstone",
   "monospaceFontFamily": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": false
 }

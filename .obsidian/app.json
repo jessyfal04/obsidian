@@ -10,5 +10,6 @@
   },
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./res"
+  "attachmentFolderPath": "./res",
+  "readableLineLength": false
 }

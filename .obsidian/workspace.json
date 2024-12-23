@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "67630369df240907",
+        "id": "b8de4cd81579b58c",
         "type": "tabs",
         "children": [
           {
-            "id": "1b76a88816c8f43b",
+            "id": "3b4f119edc56642d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "blog/2024.12.23_FieldOfResearch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "2024.12.23_FieldOfResearch"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5009651184082
   },
   "right": {
     "id": "427e40d500f9ab3b",
@@ -182,13 +184,15 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "1b76a88816c8f43b",
+  "active": "3b4f119edc56642d",
   "lastOpenFiles": [
-    "projects.md",
-    "index.md",
     "certs.md",
+    "blog/2024.12.23_FieldOfResearch.md",
+    "Untitled.md",
     "cyberNotes/index.md",
     "blog/index.md",
+    "projects.md",
+    "index.md",
     "res/cat.png",
     "trash/cv_fallavier.pdf",
     "res/attestationCNIL_Fallavier.pdf",
@@ -205,7 +209,6 @@
     "trash/Research Interest.md",
     "trash",
     "trash/Research At GF.md",
-    "Untitled.md",
     "trash/Nintendo Jobs.md",
     "trash/Cloud Provider In KR and JP.md",
     "trash/Thinkings About my Master's Degree.md",
