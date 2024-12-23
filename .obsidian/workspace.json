@@ -11,10 +11,13 @@
             "id": "1b76a88816c8f43b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -179,11 +182,15 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "ae9484ca12b1cebf",
+  "active": "1b76a88816c8f43b",
   "lastOpenFiles": [
+    "projects.md",
+    "index.md",
+    "certs.md",
+    "cyberNotes/index.md",
     "blog/index.md",
-    "trash/cv_fallavier.pdf",
     "res/cat.png",
+    "trash/cv_fallavier.pdf",
     "res/attestationCNIL_Fallavier.pdf",
     "res/attestationANSII_Fallavier.pdf",
     "trash/Pasted image 20241010114640.png",
@@ -194,9 +201,6 @@
     "trash/Pasted image 20241214153647.jpg",
     "trash/Pasted image 20241101151750.png",
     "trash/Pasted image 20241101145852.png",
-    "index.md",
-    "certs.md",
-    "projects.md",
     "trash/Automated Game Testing.md",
     "trash/Research Interest.md",
     "trash",
@@ -222,7 +226,6 @@
     "trash/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
     "trash/TryHackMe/Rooms/Intro to Kubernetes.md",
     "trash/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
-    "trash/Others/Words.md",
     "trash/Pasted image 20241112221608.png",
     "Master Paris/CRYP",
     "Res/cv.pdf",

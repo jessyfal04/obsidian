@@ -1,3 +1,6 @@
+---
+title: Projects
+---
 ### SafePunchChat
 A Secure UDP Hole-Punching Chat with Asymmetric Key Encryption
 > [!warning] Warning
