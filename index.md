@@ -2,11 +2,9 @@
 title: Me
 ---
 ## About Me
-I'm a Master's student from France with a strong passion for programming and information security.
-
-I'm determined to specialize in cybersecurity and broaden my expertise by pursuing a PhD in South Korea.
-
-I'm particularly interested in working for R&D-focused companies like Nintendo, where cloud technology plays a major role.
+I’m a Master’s student passionate about programming, software robustness, and automated testing in video games.  
+  
+Currently studying cybersecurity at Paris-Cité University, I’m transitioning to research in automated game testing. My goal is to contribute to innovative game companies where technology and creativity combine to create exceptional experiences.
 
 ### My Links
 My **LinkedIn** : https://www.linkedin.com/in/jessyfal04

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024.12.23 Field Of Research.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024.12.23 Field Of Research"
+              "title": "index"
             }
           }
         ]
@@ -187,11 +187,11 @@
   "active": "3b4f119edc56642d",
   "lastOpenFiles": [
     "cyberNotes/Untitled.md",
-    "projects.md",
-    "blog/2024.12.23 Field Of Research.md",
-    "certs.md",
     "cyberNotes/index.md",
     "blog/index.md",
+    "blog/2024.12.23 Field Of Research.md",
+    "projects.md",
+    "certs.md",
     "index.md",
     "res/cat.png",
     "trash/cv_fallavier.pdf",
