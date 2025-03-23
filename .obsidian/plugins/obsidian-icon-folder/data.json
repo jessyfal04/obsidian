@@ -35,10 +35,10 @@
   },
   "index.md": "LiHome",
   "res": "LiImage",
-  "cyberNotes": "LiBookText",
-  "cyberNotes/index.md": "LiHome",
   "blog": "LiNewspaper",
   "blog/index.md": "LiHome",
   "certs.md": "LiAlbum",
-  "projects.md": "LiExperiment"
+  "projects.md": "LiExperiment",
+  "notes": "LiBookText",
+  "notes/index.md": "LiHome"
 }

@@ -1,25 +1,70 @@
 {
   "main": {
-    "id": "1959b04dbb079316",
+    "id": "3010739c9133e395",
     "type": "split",
     "children": [
       {
-        "id": "b8de4cd81579b58c",
+        "id": "f8de49f385dc5e86",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4f119edc56642d",
+            "id": "52fef1d2d6730e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "certs.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "certs"
+            }
+          },
+          {
+            "id": "e22390285156746e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "projects"
+            }
+          },
+          {
+            "id": "363329af97d78794",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "res/TOPIK_Oct24_Fallavier.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TOPIK_Oct24_Fallavier"
             }
           }
         ]
@@ -28,27 +73,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "028011dcab04e98d",
+    "id": "1c949289b629455d",
     "type": "split",
     "children": [
       {
-        "id": "e1a7bf46fd15ee9b",
+        "id": "9847d16c7c91d3a9",
         "type": "tabs",
         "children": [
           {
-            "id": "ae9484ca12b1cebf",
+            "id": "4ffe61c86a9b367e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "0031125ea8937a2c",
+            "id": "26ca7f5e3f46b6ef",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +111,7 @@
             }
           },
           {
-            "id": "fd91399fd74683c2",
+            "id": "4183ddf486e14eac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +124,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5009651184082
+    "width": 300
   },
   "right": {
-    "id": "427e40d500f9ab3b",
+    "id": "f5065dd254aa8f69",
     "type": "split",
     "children": [
       {
-        "id": "988b4e8b6dbc4cb0",
+        "id": "0ce545c5bbf56a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e747663cb8311f",
+            "id": "480ef26ed8a0b863",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Thinkings About my Master's Degree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,50 +149,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Thinkings About my Master's Degree"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "3cd4f05f9bb633a4",
+            "id": "c02b3eb85ec30189",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Thinkings About my Master's Degree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thinkings About my Master's Degree"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b40d62e67d5e2d45",
+            "id": "e69abac1a8d0713b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "c493c197247a0ac1",
+            "id": "86dc5e88a1e3ea14",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Thinkings About my Master's Degree.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Thinkings About my Master's Degree"
+              "title": "Outline"
             }
           },
           {
-            "id": "2e727c6c0b71fd4d",
+            "id": "b0f24e52933e32b6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -155,83 +203,60 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "a8fcc8e2ad79a989",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "dbfolder:Create a new database table": false
+      "media-extended:Open media": false
     }
   },
-  "active": "3b4f119edc56642d",
+  "active": "52fef1d2d6730e50",
   "lastOpenFiles": [
-    "cyberNotes/Untitled.md",
-    "cyberNotes/index.md",
-    "blog/index.md",
-    "blog/2024.12.23 Field Of Research.md",
+    "index.md",
+    "res/attestationANSSI_Fallavier.pdf",
+    "res/attestationCNIL_Fallavier.pdf",
+    "res/cat.png",
+    "res/TOPIK_Oct24_Fallavier.pdf",
+    "Sport.md",
     "projects.md",
     "certs.md",
-    "index.md",
-    "res/cat.png",
-    "trash/cv_fallavier.pdf",
-    "res/attestationCNIL_Fallavier.pdf",
-    "res/attestationANSII_Fallavier.pdf",
-    "trash/Pasted image 20241010114640.png",
-    "trash/Pasted image 20241101144843.png",
-    "trash/Pasted image 20241112223402.png",
-    "trash/Pasted image 20241112223442.png",
-    "trash/Pasted image 20241129172645.png",
-    "trash/Pasted image 20241214153647.jpg",
-    "trash/Pasted image 20241101151750.png",
-    "trash/Pasted image 20241101145852.png",
-    "trash/Automated Game Testing.md",
-    "trash/Research Interest.md",
-    "trash",
-    "trash/Research At GF.md",
-    "trash/Nintendo Jobs.md",
-    "trash/Cloud Provider In KR and JP.md",
-    "trash/Thinkings About my Master's Degree.md",
-    "trash/Untitled.md",
-    "trash/Sept24.md",
-    "trash/TryHackMe/Paths/Jr Penetration Tester.md",
-    "res/publickey_jessyfal04.asc",
-    "Res/publickey.asc",
-    "[.md",
-    "trash/TryHackMe/Rooms/DevSecOps.md",
-    "Certs/Language/index.md",
-    "Certs/IT.md",
-    "Certs/Language",
-    "Certs",
-    "Master Paris/CRYP/Cours 2.md",
-    "trash/TryHackMe/Rooms/Vulnerability Capstone (vulnerabilitycapstone).md",
-    "trash/TryHackMe/Rooms/Vulnerabilities 101 (vulnerabilities101).md",
-    "trash/TryHackMe/Rooms/Metasploit - Introduction (metasploitintro).md",
-    "trash/TryHackMe/Rooms/Intro to Kubernetes.md",
-    "trash/TryHackMe/Rooms/Exploit Vulnerabilities (exploitingavulnerabilityv2).md",
-    "trash/Pasted image 20241112221608.png",
-    "Master Paris/CRYP",
-    "Res/cv.pdf",
-    "Untitled.canvas"
+    "TOPIK_Oct24.md",
+    "notes/Unity/Unity Essentials/index.md",
+    "notes/Unity/Unity Essentials/res/Unity_Essentials_jessyfal04.png",
+    "notes/Unity/Unity Essentials/res/image1.png",
+    "notes/Unity/Unity Essentials/res/Screenshot_20250301_201730.png",
+    "notes/Unity/Unity Essentials/res/movie.mp4",
+    "notes/Unity/Unity Essentials/res/movie.mp4.crdownload",
+    "notes/Unity/Unity Essentials/res/images.png",
+    "notes/Unity/Unity Essentials/res/Movie_001.webm",
+    "notes/Unity/Unity Essentials/Publishing Essentials.md",
+    "notes/Unity/Unity Essentials/2D Essentials.md",
+    "notes/Unity/Unity Essentials/Programming Essentials.md",
+    "notes/Unity/Unity Essentials/Audio Essentials.md",
+    "notes/Unity/Unity Essentials/Editor Essentials.md",
+    "notes/Unity/Unity Essentials/3D Essentials.md",
+    "notes/Unity/Unity Essentials/res/2025-02-28_17.18.19.mp4",
+    "notes/Unity/Unity Essentials/res/2025-02-28_17.18.19",
+    "notes/Unity/Unity Essentials/res/Pasted image 20250228144629.png",
+    "notes/Unity/Unity Essentials/res",
+    "notes/Unity/Notes.md",
+    "cyberNotes/Unity/Unity Essentials.md",
+    "notes/Unity/Unity Essentials",
+    "blog/2024.12.23 Field Of Research.md",
+    "blog/index.md"
   ]
 }

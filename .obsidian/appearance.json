@@ -1,8 +1,8 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "",
+  "cssTheme": "Blue Topaz",
   "accentColor": "#4838c2",
-  "theme": "moonstone",
+  "theme": "system",
   "monospaceFontFamily": "",
   "nativeMenus": false,
   "baseFontSizeAction": false
